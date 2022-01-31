@@ -10,7 +10,7 @@ app.use(express.json(), cors())
 
 var theData = [
     {id:1,task:"feed cat",done:false},
-    {id:2,task:"make bed great again",done:false},
+    {id:2,task:"make bed again",done:false},
     {id:3,task:"run marathon",done:true}
 ]
 
